@@ -1,9 +1,9 @@
 --
--- More Power for LS 22
+-- More Power for LS 25
 --
 -- # Author: LS-Farmers
--- # GitHub: https://github.com/oschuhm/FS22_MorePower
--- # date:   02.01.2023
+-- # GitHub: https://github.com/oschuhm/FS25_MorePower
+-- # date:   22.04.2025
 --
 
 morePower = {}
